@@ -104,4 +104,3 @@ const ShowtimeButtomStyled = styled.button`
   letter-spacing: 0.02em;
   color: #ffffff;
 `;
-
