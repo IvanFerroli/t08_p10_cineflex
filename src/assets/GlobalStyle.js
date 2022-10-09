@@ -50,9 +50,8 @@ const GlobalStyle = createGlobalStyle`
 
     .root {
         height: 100vh;
+        font-family: "Roboto";
     }
 `;
 
 export default GlobalStyle;
-
-

@@ -29,4 +29,3 @@ const HeaderStyled = styled.header`
     color: #e8833a;
   }
 `;
-
